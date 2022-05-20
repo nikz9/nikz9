@@ -1,19 +1,21 @@
 Hi 👋 My name is Nikulsinh Sodha 
 ================================  
-Full Stack Mobile Application Developer 
+Full Stack Mobile Developer 
 ---------------------------------------  
 
-I am Mobile dev currently working as a Flutter Developer. I just graduated with Bachelor of Computer Application (BCA) these year. I am mostly self taught programmer with a good basics of CS learned form college. 
+- A mobile developer working currently as a flutter developer
+- Bachelor in Computer Application graduated in 2022
+- Made a full chat application as my final year project
+- Freelancer doing freelancing since January 2022
+- You can find me on various places as mentioned below 😀
 
-I am very good at making full fledged mobile apps using Flutter for my UI, Node Js for server apis and Mongo-DB as the database. I made a full Chat application using the same stack as my final year project for bachelors. 
-
-I also work as a freelancer doing projects starting January 2022 so you can reach me out for any projects. My bucket list of learning has native IOS, Android, React Js and Web3/Blockchain in it. I am open to any new working/job offers so reach me out for the same or any other query too.  
+--------------------------------------- 
 
 * 🌍  I'm based in Bhuj 
-* ✉️  You can contact me at [sodhanikul1879@gmail.com](mailto:sodhanikul1879@gmail.com) 
+* ✉️  You can contact me at [sodhanikul1879@gmail.com](mailto:sodhanikul938@gmail.com) 
 * 🧠  I'm learning Native IOS 
-* 🤝  I'm open to collaborating on any interesting projects that I can provide value too. 
-* ⚡  I also play sports and go to gym regularly.
+* 🤝  I'm open to collaborating on any interesting projects
+* ⚡  I also play sports and go to gym regularly
 
 <a href="https://www.twitter.com/_nikz9_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/_nikz9_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/nikz9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nikz9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
