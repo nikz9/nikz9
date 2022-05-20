@@ -12,10 +12,10 @@ Full Stack Mobile Developer
 --------------------------------------- 
 
 * 🌍  I'm based in Bhuj 
-* ✉️  You can contact me at [sodhanikul1879@gmail.com](mailto:sodhanikul938@gmail.com) 
+* ✉️  You can contact me at [sodhanikul938@gmail.com](mailto:sodhanikul938@gmail.com) 
 * 🧠  I'm learning Native IOS 
 * 🤝  I'm open to collaborating on any interesting projects
-* ⚡  I also play sports and go to gym regularly
+* ⚡   I also play sports and go to gym regularly
 
 <a href="https://www.twitter.com/_nikz9_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/_nikz9_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/nikz9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nikz9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
