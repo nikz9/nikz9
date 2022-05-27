@@ -3,9 +3,8 @@ Hi 👋 My name is Nikulsinh Sodha
 Full Stack Mobile Developer 
 ---------------------------------------  
 
-- A mobile developer working currently as a flutter developer
-- Bachelor in Computer Application graduated in 2022
-- Made a full chat application as my final year project
+- A mobile developer currently working  as a Flutter Developer
+- Bachelor in Computer Science graduated in 2022
 - Freelancer doing freelancing since January 2022
 - Got any work reach me out - https://www.fiverr.com/share/ebKZk3
 - You can find me on various places as mentioned below 😀
