@@ -7,6 +7,7 @@ Full Stack Mobile Developer
 - Bachelor in Computer Application graduated in 2022
 - Made a full chat application as my final year project
 - Freelancer doing freelancing since January 2022
+- Got any work reach me out - https://www.fiverr.com/share/ebKZk3
 - You can find me on various places as mentioned below 😀
 
 --------------------------------------- 
