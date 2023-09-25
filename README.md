@@ -5,14 +5,12 @@ Full Stack Mobile Developer
 
 - A mobile developer currently working  as a Flutter Developer
 - Bachelor in Computer Science graduated in 2022
-- Freelancer doing freelancing since January 2022
-- Got any work reach me out - https://www.fiverr.com/nikul9
+- Working as a Mobile Dev since April 2022
 - You can find me on various places as mentioned below 😀
 
 --------------------------------------- 
 
-* 🌍  I'm based in Bhuj 
-* ✉️  You can contact me at [sodhanikul938@gmail.com](mailto:sodhanikul938@gmail.com) 
+* 🌍  I'm based in Bhuj  
 * 🧠  I'm learning Native IOS 
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡   I also play sports and go to gym regularly
